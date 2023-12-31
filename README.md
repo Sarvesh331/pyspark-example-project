@@ -9,7 +9,7 @@ This document is designed to be read in parallel with the code in the `pyspark-t
 
 ## ETL Project Structure
 
-The basic project structure is as follows:
+The basic project structure is as follows: Editing this
 
 ```bash
 root/
